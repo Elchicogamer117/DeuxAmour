@@ -1,2 +1,2 @@
 # DeuxAmour
-Hosting of the Doux Amour website
+Hosting of the Deux Amour website
